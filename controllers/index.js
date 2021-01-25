@@ -12,4 +12,4 @@ console.log(namnek);
 console.log(namnek);
 console.log(namnek);
 console.log(namnek);
-
+console.log("hiiiiiii");
