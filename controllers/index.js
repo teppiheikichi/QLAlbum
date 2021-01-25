@@ -6,3 +6,10 @@ let chucNang = (a)  => {
     }
 }
 chucNang(5);
+
+console.log(namnek);
+console.log(namnek);
+console.log(namnek);
+console.log(namnek);
+console.log(namnek);
+
